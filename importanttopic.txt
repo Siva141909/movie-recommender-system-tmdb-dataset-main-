@@ -1,0 +1,2 @@
+we have to download a another movie dataset  in below provided link dataset name called tmbd5000_credits.csv "https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata"
+and aslo we have create a similarity.pkl in your respective code directory , as this file is large their is no chance to upolad in github. github as limited storage as 25 mb but similiraty.pkl file has 174mb.
